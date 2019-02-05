@@ -39,7 +39,7 @@
       "density": 4.0
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#5063F0",
