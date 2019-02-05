@@ -1,4 +1,4 @@
-const cacheVersion = "pwa-quintoandar-v1";
+const cacheVersion = "pwa-quintoandar-v2";
 const filesToCache = [
   "/",
   "/index.html",
